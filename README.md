@@ -20,16 +20,16 @@ ____________________________________________________
  [![trophy](https://github-profile-trophy.vercel.app/?username=Tjoseph-O&theme=nord)](https://github.com/Tjoseph-O/github-profile-trophy)
  ____________________________________________________
  📫 How to reach me:
- - LinkedIn: [Temitope Joseph](https://linkedin.com/in/martins-oluwaseun-jojolola/)
- - Twitter: [Temitope Joseph](https://twitter.com/REGENT_VICEROY)
- - E-mail address: [jojololamartins686@gmail.com](jojololamartins686@gmail.com)
- - Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=Martins-O&color=green&style=flat-square)
+ - LinkedIn: [Temitope Joseph](https://linkedin.com/in/olabode-temitope-joseph/)
+ - Twitter: [Temitope Joseph](https://twitter.com/JosephT_Dev)
+ - E-mail address: [mrtemitopejoseph@gmail.com](mrtemitopejoseph@gmail.com)
+ - Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=Tjoseph-O&color=green&style=flat-square)
 
- ![Martins O Jojolola's Github stats](https://github-readme-stats.vercel.app/api?username=Martins-O&theme=highcontrast&show_icons=true&count_private=true)
- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-O&layout=compact)
- ![Martins's GitHub Streak](https://hub-readme-streak-stats.herokuapp.com/?user=Martins-er=Martins-O&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+ ![Temitope Joseph's Github stats](https://github-readme-stats.vercel.app/api?username=Tjoseph-O&theme=highcontrast&show_icons=true&count_private=true)
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tjoseph-O&layout=compact)
+ ![Temitoppe Joseph's GitHub Streak](https://hub-readme-streak-stats.herokuapp.com/?user=Temitope-er=Tjoseph-O&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
  
 <!---
-Martins-O/Martins-O is a ✨ special ✨ repository because its `http://README.md` (this file) appears on your GitHub profile.
+Tjoseph-O/Tjoseph-O is a ✨ special ✨ repository because its `http://README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
