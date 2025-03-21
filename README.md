@@ -14,52 +14,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Hi there 👋
 
-I'm Olabode Temitope Joseph, a Software Engineer passionate about crafting innovative and efficient software solutions. [cite: 1, 2] I'm experienced in both frontend and backend development, with a focus on delivering high-quality, user-friendly applications.
+-->
+
+
+
+I'm  Temitope Joseph, a Software Engineer passionate about crafting innovative and efficient software solutions. I'm experienced in backend development, focusing on delivering high-quality, user-friendly applications.
 
 ### Skills
 
-* **Programming Languages:** Java, Python, JavaScript, GoLang
-* **Backend Frameworks:** SpringBoot, Django, Next.js
-* **Frontend Frameworks:** React, React Native, Material UI, Styled Components
+* **Programming Languages:** Java, Python and JavaScript
+* **Backend Frameworks:** SpringBoot, Django and FastApi
 * **Version Control:** Git, GitHub
 * **Testing:** Jest, Enzyme, Unit Testing
-* **Databases:** (Inferred from experience with backend frameworks)
-* **Other:** RESTful API Integration, Responsive Design (Bootstrap, Flexbox, CSS Grid), Agile Development, Test-Driven Development, Design Thinking, Critical Thinking
+* **Databases:** MongoDB, MySQL and PostgreSQL
+* **Other:**  Agile Development, Test-Driven Development, Design Thinking, Critical Thinking
 
 ### Professional Experience
 
+* **Backend Engineer, Wareeba Solutions** (2025)
+    * Developing server-side logic, definition, and maintenance of the central database. 
+    * Contributing to the implementation of the System Architecture. 
+    * Writing reusable code and tests and building prototypes.
+
 * **Backend Engineer Intern, Jacinth Solutions** (2024)
-    * Developed server-side logic, definition, and maintenance of the central database. [cite: 2, 3]
-    * Wrote reusable code and tests and built prototypes. [cite: 3]
-    * Designed robust APIs to support mobile and desktop users. [cite: 3]
+    * Developed server-side logic, definition, and maintenance of the central database. 
+    * Wrote reusable code and tests and built prototypes. 
+    * Designed robust APIs to support mobile and desktop users.
 * **Software Engineer, Semicolon Africa** (2023)
-    * Designed mobile-based features using React Native. [cite: 4]
+    * Designed mobile-based features using React Native.
 * **Frontend Engineer, HNG Internship** (2023)
-    * Used Reactjs to create user-friendly web pages. [cite: 4]
+    * Used Reactjs to create user-friendly web pages. 
 
 ### Projects
 
-* **Geestar (Entertainment booking platform)**
-    * Technologies Utilized: React Native, Java (SpringBoot) [cite: 8]
+* **Geofence (location-based attendance marking)**
+    * Technologies Utilized: Node.js (Express)
 * **Diary Application**
-    * Technologies Utilized: SpringBoot [cite: 8]
+    * Technologies Utilized: SpringBoot
 * **Movie Platform**
-    * Technologies Utilized: React.js [cite: 8]
-
-### Education
-
-* **Software Engineering, Semicolon Africa,** Lagos, Nigeria
-* **Web Development, Classic Systems Info Tech,** Osogbo, Osun, Nigeria (2022)
-    * Relevant coursework in Data Structures, Front-End Development, Test-Driven Development (TDD), Technical Documentation, Responsive Design, Test Scenario Contribution [cite: 6]
-* **Bachelor of Education (B.Ed) in Political Science, University Of Ibadan,** Ibadan, Oyo State, Nigeria (2019) [cite: 6]
+    * Technologies Utilized: React.js
 
 ### Contact
 
-* **Email:** mrtemitopejoseph@gmail.com [cite: 1]
+* **Email:** mrtemitopejoseph@gmail.com
 
 ### Let's Connect!
 
 I'm always eager to collaborate on interesting projects and contribute to the tech community. Feel free to reach out!
--->
